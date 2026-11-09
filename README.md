@@ -5,8 +5,8 @@
 <p align="center">I'm a primarily C++ Hobby Programming that just makes hobby projects for fun.</p>
 
 ## 🔧 What I'm up to
-- 📚 Currently learning: Microsoft Foundation Classes (MFC) Framework
-- 🚧 Working on: Nothing Really, Just Chilling for now
+- 📚 Currently learning: Win32 API for C++
+- 🚧 Working on: Being a 🤓
 
 ## 🛠️ Tools and Software
 
