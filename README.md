@@ -27,6 +27,4 @@
 
 ## 📊 GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuantinityLum&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub Stats Card](https://ghstats.dev/api/card?username=QuantinityLum&theme=gruvbox&size=compact)
